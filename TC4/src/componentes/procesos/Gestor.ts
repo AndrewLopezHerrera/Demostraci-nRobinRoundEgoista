@@ -123,12 +123,12 @@ class Gestor {
     private ActualizarPrioridades(): void {
         this.ColaAceptados.verProcesos().forEach((proceso) => {
             const tiempoEspera = proceso.getTiempoEspera();
-            const aumento = tiempoEspera / this.TasaB;
+            const aumento = tiempoEspera * this.TasaB;
             proceso.setPrioridad(proceso.getPrioridad() + aumento);
         });
         this.ColaEspera.verProcesos().forEach((proceso) => {
             const tiempoEspera = proceso.getTiempoEspera();
-            const aumento = tiempoEspera / this.TasaA;
+            const aumento = tiempoEspera * this.TasaA;
             proceso.setPrioridad(proceso.getPrioridad() + aumento);
         });
     }
