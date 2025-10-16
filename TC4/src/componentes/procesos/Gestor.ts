@@ -101,7 +101,7 @@ class Gestor {
     }
 
     private CambiarContexto(): void {
-        if (this.Quantum <= this.ContadorQuantum){
+        if (this.Quantum <= this.ContadorQuantum || this.ColaAceptados.estaVacia()) {
             const proceso = this.ColaAceptados.eliminarProceso();
             this.ContadorQuantum = 0;
             if (proceso) {
