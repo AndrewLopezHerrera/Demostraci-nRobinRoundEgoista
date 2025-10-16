@@ -1,0 +1,1892 @@
+[
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "2"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "6"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "12"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "20"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "10"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "18"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "4"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "9"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "16"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "25"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "18"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "6"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "12"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "20"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "30"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "18"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "8"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "15"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "24"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "35"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "18"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "10"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "18"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "28"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "40"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "18"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "12"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "21"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "32"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "45"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "14"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "24"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "36"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "16"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "27"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "40"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "55"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "18"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "30"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "44"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "60"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "20"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "33"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "48"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "65"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "22"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "36"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "52"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "70"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "24"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "39"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "56"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "75"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "26"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "60"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "80"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "28"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "45"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "64"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "85"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "30"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "48"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "68"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "90"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "66"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "32"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "51"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "72"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "95"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "DX",
+            "Operando2": "AC"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "66"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "34"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "54"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "76"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "100"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "42"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "66"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "36"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "57"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "80"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "105"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "66"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "38"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "60"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "84"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "110"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "66"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "74"
+        }
+    ],
+    [
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "40"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "BX",
+            "Operando2": "63"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "88"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "115"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "0"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "CX",
+            "Operando2": "DX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AX",
+            "Operando2": "50"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "AC"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "BX",
+            "Operando2": "CX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "AC",
+            "Operando2": "58"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "BX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "DX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AX",
+            "Operando2": "BX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "DX",
+            "Operando2": "66"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AX"
+        },
+        {
+            "Operacion": "SUB",
+            "Operando1": "CX"
+        },
+        {
+            "Operacion": "MOV",
+            "Operando1": "AC",
+            "Operando2": "AX"
+        },
+        {
+            "Operacion": "LI",
+            "Operando1": "CX",
+            "Operando2": "74"
+        },
+        {
+            "Operacion": "ADD",
+            "Operando1": "AC"
+        }
+    ]
+]
